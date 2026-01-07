@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Hashir Sheikh
 
-**Front-end Developer**
+**The Front-end Developer**
 
 ---
 
